@@ -1,0 +1,17 @@
+.sb{
+    font-size: 20px;
+    border: solid 0.3em;
+    display: inline-block;
+    position: relative;
+    border-radius: 2.5em;
+}
+.sb input{
+    font-family: inherit;
+    font-weight: bold;
+    width: 2.5em;
+    height: 2.5em;
+    padding: .3em 2.1em .4em;
+    border: none;
+    box-sizing: border-box;
+    border-radius: 2.5em;
+}
